@@ -1,0 +1,3 @@
+Ligo um dos interruptores e espero um pouco. Desligo e ligo outro. Vou até uma sala, se a luz estiver apagada e 
+quente, significa que foi o primeiro interruptor, se estiver acesa é o segundo e se estiver apagada e fria quer 
+dizer que corresponde ao terceiro.
